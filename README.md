@@ -1,2 +1,2 @@
 # Kaggle-Competitions
-This repository will store all the Machine Learning algorithms I have used for Kaggle competitions.
+This repository will store the Machine Learning algorithm submitted to the Housing Prices Competition for Kaggle Learn Users
